@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Full Body Brackground Continer */
+.continer{
+    max-width: 100%;
+    background-color: #7a7abd;
+    margin: 0 auto;
+    padding: 20px;
+}
+/* Full Body Brackground Continer */
+
+/* Header Img Style */
+.img{
+    width: 80px;
+    height: 80;
+    border: 2px solid #fff8dc;
+    border-radius: 50%;
+    float: left;
+}
+/* Header Img Style */
+
+/* Header Name Style */
+.header_name{
+    float: left;
+    padding: 20px;
+}
+/* Header Name Style */
+
+/* Header Button Style */
+.btn{
+    float: right;
+    padding: 20px;
+    
+}
+#button{
+     width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 600;
+    cursor: pointer;
+    transition: 0.5s;
+    background-color: black;
+    color: white;
+}
+/* Header Button Style */
+
+/*Div Clear Style */
+.div_clear{
+    clear: both;
+}
+/* Div Clear Style */
+
+/* Number Style */
+.number{
+    float: left;
+    padding: 20px;
+}
+.number label{
+    text-align: center;
+    font-weight: bold;
+    color: white; 
+    font-size: 25px;
+}
+.number input{
+    box-sizing: border-box;
+    border: 2px solid red;
+    padding: 20px 30px;
+    border-radius: 20px;
+}
+/* Namber Style */
+
+/* Massage Box Style */
+  .massage_box{
+    float: right;
+    padding: 20px;
+  }
+  .massage_box label{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-size: 25px;
+  }
+  .massage_box input{
+    box-sizing: border-box;
+    border: 2px solid red;
+    padding: 30px;
+    border-radius: 20px;
+  }
+/* Massage Box Style */
